@@ -17,7 +17,6 @@
 	display: inline-block;
 	float: left;
 	margin-top: 0.5em;
-	border:rgba(0,0,0,1) 1px solid;
 }
 
 #Entradas dt{
@@ -58,7 +57,57 @@
 
 #Present{
 	width: 16.2em;
-	height: 10em;
+	height: 13em;
 	background: rgba(204,204,204,1);
+}
+
+#Present h3{
+	font-family: 'Nixie One', cursive;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 24px;
+	margin-bottom: 1em;
+	position: relative;
+	top: 0.5em;
+}
+
+#Present p{
+	width: 15em;
+	margin: auto;
+	text-align: justify;
+	font-family: 'Arvo', serif;
+}
+
+#Topicos{
+	margin-top: 1em;
+	height: 31em;
+	background: rgba(204,204,204,1);
+}
+
+#Topicos h3{
+	font-family: 'Arvo', serif;
+	font-size: 20px;
+	position: relative;
+	top: 1em;
+	margin-bottom: 2em;
+	padding-left: 0.5em;
+	font-weight: lighter;
+}
+
+#Topicos dl{
+	background-color: rgba(234,234,234,1);
+}
+
+#Topicos dt{
+	border-top: rgba(0,0,0,1) 1px solid;
+	height: 3em;
+	font-family: 'Arvo', serif;
+	font-size: 20px;
+}
+
+#Topicos dt p{
+	position: relative;
+	top: 0.8em;
+	padding-left: 1em;
 }
 
