@@ -19,9 +19,10 @@
 	margin-top: 0.5em;
 }
 
-#Entradas dt{
+#Entradas li{
 	width: 34.9em;
 	height: 19.1em;
+	list-style: none;
 }
 
 .Enter{
