@@ -99,3 +99,11 @@
 	position: relative;
 	left: 0.9em;
 }
+
+#ValidatorIcons{
+	height: 5em;
+	width: 7em;	
+	position: relative;
+	top: 1em;
+	left: 2em;
+}
