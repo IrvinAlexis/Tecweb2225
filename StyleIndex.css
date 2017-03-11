@@ -95,18 +95,19 @@
 	font-weight: lighter;
 }
 
-#Topicos dl{
+#Topicos ul{
 	background-color: rgba(234,234,234,1);
 }
 
-#Topicos dt{
+#Topicos li{
 	border-top: rgba(0,0,0,1) 1px solid;
 	height: 3em;
 	font-family: 'Arvo', serif;
 	font-size: 20px;
+	list-style: none;
 }
 
-#Topicos dt p{
+#Topicos li p{
 	position: relative;
 	top: 0.8em;
 	padding-left: 1em;
