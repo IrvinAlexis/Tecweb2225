@@ -28,7 +28,7 @@
 
 #InformacionCont{
 	background-color: rgba(204,204,204,1);
-	height: 71em;
+	height: 92em;
 	margin-top: 1em;
 }
 
@@ -44,3 +44,43 @@
 	top: 0.5em;
 	font-family: 'Jura', sans-serif;
 }
+
+#InfoContent
+{
+	width: 50em;
+	height: 86em;
+	margin: auto;
+	position: relative;
+	top: 1em;
+}
+
+#Info
+{
+	height: 80em;
+}
+
+#Info h1
+{
+	font-family: 'Jura', sans-serif;
+	margin-bottom: 0.5em;
+}
+
+#Info h2
+{
+	font-family: 'Jura', sans-serif;
+	margin-bottom: 0.5em;
+}
+
+#Info img
+{
+	
+}
+
+
+#Info p
+{
+	font-family: 'Jura', sans-serif;
+	font-weight: inherit;
+	margin-bottom: 1em;
+}
+	
