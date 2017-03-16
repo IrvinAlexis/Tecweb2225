@@ -73,7 +73,7 @@
 
 #Info img
 {
-	
+  	
 }
 
 
@@ -82,5 +82,36 @@
 	font-family: 'Jura', sans-serif;
 	font-weight: inherit;
 	margin-bottom: 1em;
+	text-align: justify;
+}
+
+#Info dl
+{
+	margin-bottom: 1em;
+}
+
+#Info dt
+{
+	font-family: 'Jura', sans-serif;
+	color: #009;
+}
+
+#Info dd
+{
+	font-family: 'Jura', sans-serif;
+	color: #000;
+	text-align: justify;
+	margin-bottom: 0.5em;
+}
+
+#Info ul
+{
+	position: relative;
+	left: 3em;
+}
+
+#Info li
+{
+	font-family: 'Jura', sans-serif;
 }
 	

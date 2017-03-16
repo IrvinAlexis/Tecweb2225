@@ -38,7 +38,7 @@
 	height: 6em;
 	position: relative;
 	top: 12em;
-	background-color: rgba(0,0,0,0.7);
+	background-color: rgba(90,87,87,0.7);
 }
 
 .TitleEnter{
@@ -111,5 +111,10 @@
 	position: relative;
 	top: 0.8em;
 	padding-left: 1em;
+}
+
+.Linked
+{
+	color: #FF0;
 }
 
